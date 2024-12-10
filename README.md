@@ -19,9 +19,18 @@ pictures are the highlights extricated. Convolutional Neural Network (CNN) is ut
 prepare and arrange the pictures. We have a decent degree of exactness in perceiving ten 
 American Sign motion letter sets. Our model has an incredible precision pace of over 90  
 Index Terms—PHP, Machine Learning, Deep learning, web
-
-
-
+----------------------------------------------------------------------------------------------------------------------------
+How to run this code?
+Step 1: Create a directory in your local machine and cd into it
+mkdir ~/Desktop/opencv_project
+cd ~/Desktop/opencv_project
+Step 2: Clone the repository and cd into the folder:
+git clone https://github.com/PresentAryal/hand-sigh
+Step 3: Install all the necessary libraries. I used MacOS for this project. These are some of the libraries I had to install:
+pip install -r requirements.txt
+Step 4:Run the Application:
+python app.py
+------------------------------------------------------------------------------------------------------------------------------
 MIT License 
 Copyright (c) 2024 Hand Sign Detection by Present 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
