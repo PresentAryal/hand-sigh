@@ -1,3 +1,4 @@
+
 Abstract 
 
 It’s generally challenging to speak with somebody who has a consultation disability. People 
@@ -39,7 +40,9 @@ Step 3: Install all the necessary libraries. I used MacOS for this project. Thes
 Step 4:Run the Application:
 
 -python app.py
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 MIT License 
 
 Copyright (c) 2024 Hand Sign Detection by Present 
