@@ -16,11 +16,13 @@ Sign Language in this paper. The clients ought to have the option to take photos
 involving a web camera in this review, and the framework should expect and show the name 
 of the gained picture. To recognize the hand motion, we utilize the HSV variety strategy and 
 set the background to dark. The photographs are handled utilizing an assortment of PC vision 
-procedures, including grayscale transformation, dilatation, and veiling. What’s more, the 
+procedures, including grayscale transformation, dilatation, and veiling.What’s more, the 
 district of interest is sectioned, for this situation the hand motion. The parallel pixels of the 
 pictures are the highlights extricated. Convolutional Neural Network (CNN) is utilized to 
 prepare and arrange the pictures. We have a decent degree of exactness in perceiving ten 
-American Sign motion letter sets. Our model has an incredible precision pace of over 90  
+American Sign motion letter sets. 
+
+Our model has an incredible precision pace of over 90  
 Index Terms—PHP, Machine Learning, Deep learning, web
 ----------------------------------------------------------------------------------------------------------------------------
 How to run this code?
