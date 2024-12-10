@@ -8,6 +8,7 @@ into a definitive cure. It works with and improves on the combination interactio
 and others. Nonetheless, essentially it is deficient to create gesture-based communication. This 
 gift accompanies a ton of surprises. For somebody who has never learned it or knows it in an 
 alternate language, the sign developments are oftentimes stirred up and befuddled. 
+
 Notwithstanding, with the development of various ways to deal with computerizing the ID of 
 sign movements, this correspondence hole that has persevered for quite a long time can now 
 be connected. We give a Sign Language acknowledgment framework in view of American 
